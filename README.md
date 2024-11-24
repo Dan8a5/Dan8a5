@@ -1,9 +1,7 @@
 - 👋 Hi, I'm @ Daniel
 - 👀 I'm interested in full-stack web development, particularly building innovative web applications
 - 🌱  I'm currently diving deep into React and Python web development with FastAPI
-- 💞️ I'm looking to collaborate on open-source projects
-- 📫 You can reach me on LinkedIn or via email: Daniel9875@gmail.com
-- 😄 Pronouns: he/him
+- 📫 You can reach me via email @ Daniel9875@gmail.com
 - ⚡ Fun fact: I enjoy exploring national parks and researching astronomy topics in my free time
 
 <!---
