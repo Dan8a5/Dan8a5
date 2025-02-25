@@ -1,4 +1,3 @@
-# Welcome to my GitHub! 👋
 
 * 👋 Hi, I'm @Daniel
 * 👀 I'm interested in full-stack web development, particularly building innovative web applications
