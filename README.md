@@ -8,6 +8,6 @@
 * 📫 How to reach me:
   * Email: Daniel9875@gmail.com
   * LinkedIn: [Daniel M. Ochoa](https://www.linkedin.com/in/daniel-m-ochoa/)
-* ⚡ Fun fact: I enjoy exploring the outdoors and researching astronomy topics in my free time
+
 
 <!-- Feel free to connect! -->
