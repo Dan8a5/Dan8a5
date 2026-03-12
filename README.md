@@ -4,7 +4,6 @@
 *  Currently pursuing a BS in Computer Science
 *  How to reach me:
   * Email: Daniel9875@gmail.com
-  * LinkedIn: [Daniel M. Ochoa](https://www.linkedin.com/in/daniel-m-ochoa/)
 
 
 <!-- Feel free to connect! -->
